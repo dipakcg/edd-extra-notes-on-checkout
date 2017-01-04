@@ -30,7 +30,7 @@ add_filter('edd_payment_meta', 'dcg_edd_store_extra_notes');
 
 // Add {extra_note} tag to use in either the purchase receipt email or admin notification emails
 if ( function_exists( 'edd_add_email_tag' ) ) {
-    edd_add_email_tag( 'extra_note', 'Extra note(s) submitted during checkout.', 'dcg_edd_email_tag_extra_notes' );
+    edd_add_email_tag( 'extra_note', 'Extra note(s) submitted by the buyer during checkout.', 'dcg_edd_email_tag_extra_notes' );
 }
 // {extra_note} email tag
 function dcg_edd_email_tag_extra_notes( $payment_id ) {
