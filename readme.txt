@@ -11,13 +11,15 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Easy Digital Downloads add-on/extension, adds 'Extra note(s)' textarea to the checkout screen for buyers to add notes about their order.
 
 == Description ==
-This WordPress plugin is Easy Digital Downloads add-on/extension, adds 'Extra note(s)' textarea to the checkout screen for buyers to add notes about their order.
+This WordPress plugin is [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/) add-on/extension, adds 'Extra note(s)' textarea to the checkout screen for buyers to add notes about their order.
 
 = This plugin will... =
 * Adds 'Extra note(s)' textarea to the checkout screen
-* Adds {extra_note} email tag to show 'Extra note' data in either the standard purchase receipt or admin notificatios
+* Adds {extra_note} email tag to show 'Extra note(s)’ data in either the standard purchase receipt or admin notificatios
 
-- This plugin doesn't have any settings. Install - Activate, and Boom!
+* Check the [screenshots](https://wordpress.org/plugins/edd-extra-notes-on-checkout/screenshots/).
+
+// This plugin doesn't have any settings/options. Just Install, Activate, and Boom!
 
 **Follow the development of this plugin on [GitHub](https://github.com/dipakcg/edd-extra-notes-on-checkout)**
 
@@ -31,17 +33,17 @@ This WordPress plugin is Easy Digital Downloads add-on/extension, adds 'Extra no
 == Frequently Asked Questions ==
 = Any specific requirements for this plugin to work? =
 
-* 'Easy Digital Downlaods' plugin should be installed and activated, for this plugin to work.
+'Easy Digital Downlaods' plugin should be installed and activated, for this plugin to work.
 
 = Is that it? =
 
 Pretty much, yeah.
 
 == Screenshots ==
-1. Extra note(s) textarea at checkout
+1. Extra note(s) textarea on checkout screen
 2. {extra_note} email tag
 
 == Changelog ==
-= 1.1, January 03, 2016 =
+= 1.1, January 06, 2016 =
 * Initial release.
 * Born of Easy Digital Downloads - Extra note(s) On Checkout.
