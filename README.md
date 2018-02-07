@@ -3,8 +3,8 @@ Easy Digital Downloads add-on/extension, adds 'Extra note(s)' textarea to the ch
 
 (1) Adds 'Extra note(s)' textarea at checkout.
 
-![Extra note(s) textarea at checkout](https://www.dropbox.com/s/um7i6dgh5gvvvzx/edd-extra-notes-on-checkout_001.png)
+<img src="https://ps.w.org/edd-extra-notes-on-checkout/assets/screenshot-1.png" />
 
 (2) Adds a new {extra_note} email tag to show the 'Extra note(s)' in either the standard purchase receipt or admin notificatios.
 
-![{extra_note} email tag](https://www.dropbox.com/s/dsldzxptdoz6r3o/edd-extra-notes-on-checkout_002.png)
+<img src="https://ps.w.org/edd-extra-notes-on-checkout/assets/screenshot-2.png" />
